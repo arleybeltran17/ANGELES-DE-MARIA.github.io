@@ -1,0 +1,7 @@
+importante
+
+crear la base de datos en phpmyadmin y ponerle de nombre:
+
+angeles
+
+y que todo este en la carpeta de htdocs
